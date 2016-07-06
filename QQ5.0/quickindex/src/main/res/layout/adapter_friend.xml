@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:background="#3c3c3c"
+        android:textColor="#fff"
+        android:id="@+id/first_word"
+        android:padding="10dp"
+        android:text="A"/>
+    
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:id="@+id/name"
+        android:background="#fff"
+        android:textColor="#333"
+        android:padding="10dp"
+        android:text="名称"/>
+
+</LinearLayout>

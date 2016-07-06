@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QQ5.0.iml" filepath="$PROJECT_DIR$/QQ5.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQslidemenu/QQslidemenu.iml" filepath="$PROJECT_DIR$/QQslidemenu/QQslidemenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gooview/gooview.iml" filepath="$PROJECT_DIR$/gooview/gooview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parallax/parallax.iml" filepath="$PROJECT_DIR$/parallax/parallax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickindex/quickindex.iml" filepath="$PROJECT_DIR$/quickindex/quickindex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipedelete/swipedelete.iml" filepath="$PROJECT_DIR$/swipedelete/swipedelete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tencent/tencent.iml" filepath="$PROJECT_DIR$/tencent/tencent.iml" />
+    </modules>
+  </component>
+</project>
